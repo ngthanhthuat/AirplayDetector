@@ -1,25 +1,32 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7db973b4-ccf8-4662-83fd-ee56873bdb93++9788",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E94080856F27E81C34F308F21DCD7ABC27BD503F",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
     "7db973b4-ccf8-4662-83fd-ee56873bdb93++9788" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "7db973b4-ccf8-4662-83fd-ee56873bdb93++9788" : 9223372036854775807
+    "7db973b4-ccf8-4662-83fd-ee56873bdb93++9788" : 9223372036854775807,
+    "E94080856F27E81C34F308F21DCD7ABC27BD503F" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7D3F3FBA-A72F-4DDA-99CD-106CB68114AC",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "7db973b4-ccf8-4662-83fd-ee56873bdb93++9788" : "iOSWorkspace\/"
+    "7db973b4-ccf8-4662-83fd-ee56873bdb93++9788" : "",
+    "E94080856F27E81C34F308F21DCD7ABC27BD503F" : "AirplayDetector1\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "AirplayDetector",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AirplayDetector\/AirplayDetector.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AirplayDetector.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.vtmlab.com\/vtm_airplay_recording",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7db973b4-ccf8-4662-83fd-ee56873bdb93++9788"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ngthanhthuat\/AirplayDetector.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E94080856F27E81C34F308F21DCD7ABC27BD503F"
     }
   ]
 }
